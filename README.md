@@ -271,13 +271,13 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👤 Contato
 
-**Seu Nome** - [@seu_twitter](https://twitter.com/fabiomagajr)
+**Fabio Magalhães** - [@fabiomagajr](https://twitter.com/fabiomagajr)
 
 📧 Email: fabiomagajr@gmail.com
 
-🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/fabiomagajr)
+🔗 LinkedIn: [linkedin.com/in/fabiomagajr](https://linkedin.com/in/fabiomagajr)
 
-🐙 GitHub: [@seu-usuario](https://github.com/fabiomagajr)
+🐙 GitHub: [@fabiomagajr](https://github.com/fabiomagajr)
 
 ---
 
