@@ -22,35 +22,34 @@ export const typeColors: Record<string, string> = {
   unknown: 'bg-gray-200',
 };
 
-// Função auxiliar para obter a cor de fundo
 export function getTypeColor(typeName: string): string {
   return typeColors[typeName] || 'bg-white';
 }
 
-// Mapeamento para badges (tons mais saturados)
+// ALTERE AQUI: Mapeamento para badges (TEXTO PRETO)
 export const typeBadgeColors: Record<string, string> = {
-  normal: 'bg-gray-400 text-gray-900',
-  fire: 'bg-red-500 text-white',
-  water: 'bg-blue-500 text-white',
-  grass: 'bg-green-500 text-white',
-  electric: 'bg-yellow-400 text-gray-900',
-  ice: 'bg-cyan-400 text-gray-900',
-  fighting: 'bg-orange-600 text-white',
-  poison: 'bg-purple-500 text-white',
-  ground: 'bg-amber-600 text-white',
-  flying: 'bg-indigo-400 text-white',
-  psychic: 'bg-pink-500 text-white',
-  bug: 'bg-lime-500 text-gray-900',
-  rock: 'bg-stone-600 text-white',
-  ghost: 'bg-violet-500 text-white',
-  dragon: 'bg-indigo-600 text-white',
-  dark: 'bg-gray-700 text-white',
-  steel: 'bg-slate-500 text-white',
-  fairy: 'bg-pink-400 text-white',
-  stellar: 'bg-fuchsia-500 text-white',
-  unknown: 'bg-gray-500 text-white',
+  normal: 'bg-gray-400 text-black',
+  fire: 'bg-red-400 text-black',
+  water: 'bg-blue-400 text-black',
+  grass: 'bg-green-400 text-black',
+  electric: 'bg-yellow-300 text-black',
+  ice: 'bg-cyan-300 text-black',
+  fighting: 'bg-orange-400 text-black',
+  poison: 'bg-purple-400 text-black',
+  ground: 'bg-amber-400 text-black',
+  flying: 'bg-indigo-400 text-black',
+  psychic: 'bg-pink-400 text-black',
+  bug: 'bg-lime-400 text-black',
+  rock: 'bg-stone-400 text-black',
+  ghost: 'bg-violet-400 text-black',
+  dragon: 'bg-indigo-500 text-black',
+  dark: 'bg-gray-500 text-black',
+  steel: 'bg-slate-400 text-black',
+  fairy: 'bg-pink-400 text-black',
+  stellar: 'bg-fuchsia-400 text-black',
+  unknown: 'bg-gray-400 text-black',
 };
 
 export function getTypeBadgeColor(typeName: string): string {
-  return typeBadgeColors[typeName] || 'bg-gray-400 text-gray-900';
+  return typeBadgeColors[typeName] || 'bg-gray-400 text-black';
 }
