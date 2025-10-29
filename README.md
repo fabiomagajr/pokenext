@@ -271,13 +271,13 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👤 Contato
 
-**Seu Nome** - [@seu_twitter](https://twitter.com/seu_twitter)
+**Seu Nome** - [@seu_twitter](https://twitter.com/fabiomagajr)
 
-📧 Email: seu.email@exemplo.com
+📧 Email: fabiomagajr@gmail.com
 
-🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/fabiomagajr)
 
-🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
+🐙 GitHub: [@seu-usuario](https://github.com/fabiomagajr)
 
 ---
 
@@ -294,7 +294,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### ⭐ Se este projeto foi útil, considere dar uma estrela!
 
-Made with ❤️ and ⚡ by [Seu Nome](https://github.com/seu-usuario)
+Made with ❤️ and ⚡ by [Fabio Magalhães](https://github.com/seu-usuario)
 
 **[⬆ Voltar ao topo](#-pokédex-interativa)**
 
